@@ -1,2 +1,2 @@
 # insanity
-Run this script. Lose your mind.
+Run this script. Lose your mind. Don't sue me.
